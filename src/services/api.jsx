@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const API = axios.create({
-  baseURL: 'https://final-be-project-aeroplane-production.up.railway.app/api',
+  baseURL: 'https://api-c13.up.railway.app/api',
   headers: {
     Accept: 'application/json',
     Authorization: `Bearer ${localStorage.getItem('token') || ''}`

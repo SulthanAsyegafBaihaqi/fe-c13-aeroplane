@@ -51,5 +51,17 @@
   },
   "devDependencies": {
     "typescript": "^4.9.3"
-  }
+  },
+  "description": "C-13 AEROPLANE merupakan sebuah platform untuk pemesanan ticket pesawat dengan satu rute , yang akan menampilkan tiket dengan memasukan lokasi diform pencarian tiket dan akan menampilkan tiket yang dicari ,tiket tersebut dapat juga dimasukan ke wishlist. user dapat memilih tiket yang sudah ditampilkan , tiket yang sudah dipilih user akan diminta untuk memasukan data passanger oleh user sebelum melakukan checkout.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afanfian/FE-FSW-Tim-C-13.git"
+  },
+  "author": "sulthann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afanfian/FE-FSW-Tim-C-13/issues"
+  },
+  "homepage": "https://github.com/afanfian/FE-FSW-Tim-C-13#readme"
 }
